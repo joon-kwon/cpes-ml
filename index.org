@@ -22,7 +22,7 @@ programmation en Python et la librairie [[https://scikit-learn.org/][=scikit-lea
 - 3 avril :: [[file:chapitre4.pdf][Validation et sélection]] --- [[file:tp4.pdf][TP]] (correction: [[file:tp4-correction.html][html]], [[file:tp4-correction.ipynb][jupyter]])
 - 24 avril :: [[file:chapitre5.pdf][Régularisation]] --- [[file:td5.pdf][TD]] ([[file:td5-correction.pdf][correction]]) --- [[file:tp5.pdf][TP]] (correction:
   [[file:tp5-correction.html][html]], [[file:tp5-correction.ipynb][jupyter]])
-- 15 mai :: [[file:chapitre6.pdf][Support vector machines]] --- [[file:td6.pdf][TD]] --- [[file:tp6.pdf][TP]]
+- 15 mai :: [[file:chapitre6.pdf][Support vector machines]] --- [[file:td6.pdf][TD]] ([[file:td6-correction.pdf][correction]]) --- [[file:tp6.pdf][TP]]
 - 22 mai :: Méthodes à noyaux -- I
 - 29 mai :: Méthodes à noyaux -- II
 - 5 juin :: Arbres de décision et méthodes ensemblistes
