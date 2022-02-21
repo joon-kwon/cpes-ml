@@ -8,3 +8,7 @@
 /auto/
 /upload.sh
 index.org
+*.gz
+*.fls
+*.pyg
+*.fdb_latexmk
